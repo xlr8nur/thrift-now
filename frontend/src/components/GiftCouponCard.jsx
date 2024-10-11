@@ -15,8 +15,7 @@ const GiftCouponCard = () => {
 	}, [coupon]);
 
 	const handleApplyCoupon = () => {
-		if (!userInputCode) return;
-		applyCoupon(userInputCode);
+		console.log(userInputCode);
 	};
 
 	const handleRemoveCoupon = async () => {
@@ -92,4 +91,5 @@ const GiftCouponCard = () => {
 		</motion.div>
 	);
 };
+
 export default GiftCouponCard;
