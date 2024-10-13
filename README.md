@@ -78,4 +78,4 @@ Feel free to fork this repository and submit pull requests. Contributions are we
 
 ---
 
-For any further questions, please reach out to [repo owner](mailto:xlr8nur@protonmail.com).
+For any further questions, please reach out to [me](mailto:xlr8nur@protonmail.com).
