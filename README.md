@@ -2,7 +2,7 @@
 
 **Thrift Now** is a modern web application designed to facilitate the buying and selling of second-hand items. Built with a user-friendly interface, it allows users to list items for sale, browse through available products, and make secure purchases or trades.
 
-![gitgit](https://github.com/user-attachments/assets/49a1f1ad-46d8-46e0-9a40-c897d9627b80)
+![bb](https://github.com/user-attachments/assets/c653347b-f84c-4aeb-986e-06ad26aa8fbf)
 
 ## Features
 
